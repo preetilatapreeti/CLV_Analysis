@@ -1,4 +1,5 @@
 # E-Commerce Customer Churn & Lifetime Value (CLV) Analysis
+![Dashboard Preview](assets/dashboard.png)
 
 ## Overview
 
